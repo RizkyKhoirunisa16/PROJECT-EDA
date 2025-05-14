@@ -5,7 +5,7 @@ Proyek ini dibuat untuk menerapkan teknik *Exploratory Data Analysis* (EDA) meng
 
 ## 📁 Deskripsi Proyek
 
-Exploratory Data Analysis (EDA) adalah proses penting dalam analisis data untuk memahami struktur, pola, outlier, dan distribusi data. Dalam proyek ini, dilakukan analisis eksplorasi terhadap dataset [*isi nama dataset jika ada*] untuk menemukan insight dan memvisualisasikannya secara informatif.
+Exploratory Data Analysis (EDA) adalah proses penting dalam analisis data untuk memahami struktur, pola, outlier, dan distribusi data. Dalam proyek ini, dilakukan analisis eksplorasi terhadap dataset International_Eduction_Costs.csv untuk menemukan insight dan memvisualisasikannya secara informatif.
 
 ## 🧰 Tools & Libraries
 
